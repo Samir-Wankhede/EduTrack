@@ -3,15 +3,15 @@ A multifunctional web application for college students to track their attendance
 To run:<br />
 open all three folders in different terminals<br />
 in the terminal for frontend folder: <br />
-1. npm i <br />
-2. npm run dev <br />
+1.1 npm i <br />
+1.2 npm run dev <br />
 then in terminal for backend folder: <br />
-1. npm i <br />
-2. npm run dev <br />
+2.1 npm i <br />
+2.2 npm run dev <br />
 finally in model folder <br/>
-1.1 . .venv/bin/activate for mac <br/>
-1.2 .venv\Scripts\activate for windows <br />
-2. flask --app app run <br />
+3.1.1 . .venv/bin/activate for mac <br/>
+3.1.2 .venv\Scripts\activate for windows <br />
+3.2 flask --app app run <br />
 
 Technology Stack
 
