@@ -7,4 +7,6 @@ Technology Stack
 ● Database: PostgreSQL<br />
 ● Machine Learning Model: Pandas, Numpy, Flask API<br />
 
-System Design:
+System Design:<br />
+
+![image 1](https://github.com/Samir-Wankhede/EduTrack/assets/137442566/b130b07b-dd92-4b20-b924-db54c04412dd)
